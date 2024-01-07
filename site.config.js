@@ -1,8 +1,8 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Chani1209",
-    image: "/profile.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    name: "CHANI",
+    image: "/profile.png",
     role: "Backend Developer",
     bio: "꾸준히 성장하는 개발자",
     email: "01077590592@hanmail.net",
@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Chani1209",
+    title: "chani-log",
     description: "chani's log",
     theme: "light",
   },
