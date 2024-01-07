@@ -18,9 +18,9 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "chani-log",
+    title: "chani1209",
     description: "chani's log",
-    theme: "auto",
+    theme: "light",
   },
 
   // CONFIG configration (required)
