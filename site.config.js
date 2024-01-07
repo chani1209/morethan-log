@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "chani1209",
+    name: "Chani1209",
     image: "/profile.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "backend developer",
-    bio: "develop everything i want",
+    role: "Backend Developer",
+    bio: "꾸준히 성장하는 개발자",
     email: "01077590592@hanmail.net",
     linkedin: "cha-sechan-932579160",
     github: "chani1209",
@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "chani1209",
+    title: "Chani1209",
     description: "chani's log",
     theme: "light",
   },
@@ -36,7 +36,7 @@ const CONFIG = {
 
   // plugin configuration (optional)
   googleAnalytics: {
-    enable: false,
+    enable: true,
     config: {
       measurementId: process.env.NEXT_PUBLIC_GOOGLE_MEASUREMENT_ID || "",
     },
